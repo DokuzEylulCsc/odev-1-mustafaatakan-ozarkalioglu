@@ -1,0 +1,7 @@
+C:\Users\Bora\source\repos\Odev1\Odev1\bin\Debug\Odev1.exe.config
+C:\Users\Bora\source\repos\Odev1\Odev1\bin\Debug\Odev1.exe
+C:\Users\Bora\source\repos\Odev1\Odev1\bin\Debug\Odev1.pdb
+C:\Users\Bora\source\repos\Odev1\Odev1\obj\Debug\Odev1.csprojAssemblyReference.cache
+C:\Users\Bora\source\repos\Odev1\Odev1\obj\Debug\Odev1.csproj.CoreCompileInputs.cache
+C:\Users\Bora\source\repos\Odev1\Odev1\obj\Debug\Odev1.exe
+C:\Users\Bora\source\repos\Odev1\Odev1\obj\Debug\Odev1.pdb
